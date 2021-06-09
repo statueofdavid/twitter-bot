@@ -6,3 +6,6 @@ Currently haiku.py is a standalone and while the other files aren't connected to
 
 The dream is for this bot to start crawling about, discover words, etc., learn what it all means, and tweet about it.
 ... hopefully twitter-bot doesn't end up like the other bots before it... (╥_╥)
+
+
+instructions to come...
